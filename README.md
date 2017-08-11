@@ -1,2 +1,1 @@
-# mikprov.github.io
-Personal website
+Repository for my website, work in progress
